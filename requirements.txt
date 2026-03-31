@@ -1,0 +1,12 @@
+pytelebotapi
+requests
+pyautogui
+psutil
+Pillow
+pywin32
+opencv-python
+numpy
+moviepy
+pynput
+pycryptodome
+pywinauto
