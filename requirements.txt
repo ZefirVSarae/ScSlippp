@@ -7,6 +7,8 @@ pywin32
 opencv-python
 numpy
 moviepy
+proglog
+decorator
 pynput
 pycryptodome
 pywinauto
